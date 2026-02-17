@@ -56,7 +56,7 @@
 ## How to reach me
 
 <div>
-  <a href="https://www.linkedin.com/in/nikita-tolstik-9a73b31b6/">
+  <a href="https://www.linkedin.com/in/ntolstik/">
     <img src="./assets/linkedin.png" style="width: 32px;" />
   </a>
 </div>
