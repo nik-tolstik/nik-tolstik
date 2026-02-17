@@ -21,7 +21,7 @@
     </tr>
     <tr>
         <td>English Level</td>
-        <td>Intermediate</td>
+        <td>Upper Intermediate</td>
     </tr>
     <tr>
         <td>Programming Experience</td>
