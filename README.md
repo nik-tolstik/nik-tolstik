@@ -1,8 +1,6 @@
-<p align="center">
-  <img src="./assets/avatar.jpg" alt="Nikita Tolstik" width="150" style="border-radius: 50%;" />
-</p>
-
-<h1 align="center">Nikita Tolstik</h1>
+<h1 align="center">
+Nikita Tolstik
+</h1>
 <h3 align="center">Senior Front-end Developer</h3>
 
 <p align="center">
