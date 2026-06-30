@@ -21,7 +21,7 @@ Nikita Tolstik
 
 ## About
 
-Senior Fullstack Developer with over 6 years of experience and deep end-to-end ownership of web products across Web3, education, construction analytics, fintech, automotive, and enterprise systems. I specialize in building **high-performance, user-friendly, and secure applications** with a strong emphasis on maintainable architecture and measurable business outcomes.
+Senior Fullstack Developer with over 7 years of experience and deep end-to-end ownership of web products across Web3, education, construction analytics, fintech, automotive, and enterprise systems. I specialize in building **high-performance, user-friendly, and secure applications** with a strong emphasis on maintainable architecture and measurable business outcomes.
 
 I combine engineering rigor with product thinking: I align technical choices with business strategy, advocate for long-term maintainable approaches, and keep teams aligned on trade-offs. I have shipped multiple products from scratch, migrated legacy platforms to modern standards, led team-level quality discussions, and consistently deliver with a focus on accessibility, test coverage, and developer experience.
 
