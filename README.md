@@ -13,7 +13,7 @@ Nikita Tolstik
 <p align="center">
   <img src="https://img.shields.io/badge/Minsk%2C%20Belarus-Location-4C566A?style=flat-square" alt="Location" />
   <img src="https://img.shields.io/badge/Commercial-Experience%20since%202019-4C566A?style=flat-square" alt="Experience" />
-  <img src="https://img.shields.io/badge/Role-Senior%20Front--end%20Developer-4C566A?style=flat-square" alt="Role" />
+  <img src="https://img.shields.io/badge/Role-Senior%20Fullstack%20Developer-4C566A?style=flat-square" alt="Role" />
   <img src="https://img.shields.io/badge/Contact-niko.tolstik%40gmail.com-4C566A?style=flat-square" alt="Email" />
 </p>
 
